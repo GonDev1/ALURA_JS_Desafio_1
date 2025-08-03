@@ -20,8 +20,6 @@
 10 - Ahora, si la edad es mayor o igual a 18, muestra una alerta con el mensaje "¡Puedes obtener tu licencia de conducir!".Si necesitas ayuda, las soluciones a las actividades estarán disponibles en la sección
 
 🖥 Programa para comfirmar si el usuario puede obtener una licencia de conducir
-
- Programa para comfirmar si el usuario puede obtener una licencia de conducir
     
     let nombre = Lua;
     let edad = 25;
