@@ -21,14 +21,13 @@
 
 🖥 Programa para comfirmar si el usuario puede obtener una licencia de conducir
 
-//Variables
+Programa para comfirmar si el usuario puede obtener una licencia de conducir
 let nombre = Lua;
 let edad = 25;
 let numeroDeVentas = 50;
 let saldoDisponible = 1000;
 let mensajeDeError = "¡Error! Completa todos los campos";
 alert ('mensajeDeError:');
-
 alert ('¡Bienvenida y bienvenido a nuestro sitio web!');
 let nombreUsuarioVisitante = prompt ("¿Cual es su nombre?");
 console.log (nombreUsuario);
